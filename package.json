@@ -1,0 +1,14 @@
+
+{
+  "name": "kikocodder-chat-app",
+  "version": "1.0.0",
+  "description": "Chat application with avatar fallback support",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/avatar.test.js"
+  },
+  "type": "module",
+  "keywords": ["chat", "avatar", "fallback"],
+  "author": "kikocodder",
+  "license": "MIT"
+}
