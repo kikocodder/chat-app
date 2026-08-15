@@ -5,7 +5,7 @@
   "description": "Chat application with avatar fallback support",
   "main": "index.js",
   "scripts": {
-    "test": "node test/avatar.test.js"
+    "test": "node test/dateUtils.test.js"
   },
   "type": "module",
   "keywords": ["chat", "avatar", "fallback"],
